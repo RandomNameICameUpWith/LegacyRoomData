@@ -1,1 +1,0 @@
-[{"PrefabName":"[DiscGolfDisc]","ModificationGuid":"5d3c3b16-713e-43d8-88e0-7633063091da","UnlockedLevel":1,"Favorited":false}]
