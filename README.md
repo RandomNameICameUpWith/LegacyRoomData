@@ -4,3 +4,5 @@
 ## About fooditems.
 I would *HIGHLY* discourage giving users access to fooditems before im able to add the AntiCheat.
 Giving users fooditems before adding the AntiCheat could allow users to ItemSwap, causing havok.
+
+## End of message.
