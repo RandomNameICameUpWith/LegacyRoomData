@@ -1,1 +1,1 @@
-[{"UnlockedLevel": 1, "AvatarItemDesc": "102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,"}, {"UnlockedLevel": 1, "AvatarItemDesc": "fb907eb2-91c8-45ff-84a5-462bb86ea7de,b415fe60-3e9d-4f4d-a53a-ca15eac6af7d,fb907eb2-91c8-45ff-84a5-462bb86ea7de,"}]
+[{"UnlockedLevel": 1, "AvatarItemDesc": "102c625b-b988-4bf8-a2aa-a31ad7029cdc,,,"}, {"UnlockedLevel": 1, "AvatarItemDesc": "4763436c-2dcc-482a-bf37-a6b16d7aae6e,c8cc9589-4831-4e73-a865-ef8c139a2ba7,4763436c-2dcc-482a-bf37-a6b16d7aae6e,"}]
