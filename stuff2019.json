@@ -1,0 +1,93 @@
+{
+  "FeaturedPlayer": {
+    "Id": 69,
+    "TitleOverride": "Featured Lack of Player",
+    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "FeaturedRoomGroup": {
+    "Name": "November Highlights",
+    "FeaturedRooms": [
+      {
+        "RoomName": "Crescendo",
+        "RoomId": 10,
+        "ImageName": "ActivityDormRoom.png"
+      },
+      {
+        "RoomName": "Bowling",
+        "RoomId": 19,
+        "ImageName": "ActivityDormRoom.png"
+      }
+    ]
+  },
+  "CurrentAnnouncement": {
+    "Message": "CoffeeVault 0.0.7 - The \"Dracula Photo Shoot With Refreshments\" Edition!",
+    "MoreInfoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "InstagramImages": [
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "ActivityDormRoom.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    }
+    
+  ],
+  "Videos": [
+    {
+      "BlobName": "real.mp4",
+      "Title": "hack",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "IDK.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "BlobName": "output2.webm",
+      "Title": "Kirby Bounce",
+      "Description": "REAL!??!?!",
+      "ThumbnailBlobName": "IDK.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ]
+}
